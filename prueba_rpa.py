@@ -98,7 +98,7 @@ def send_mail():
                             border-radius: 5px;
                             text-align: center;
                             
-                            " href="https://github.com/LuisEObando">Visíta mi perfil de GitHub Aquí</a>
+                            " href="https://github.com/LuisEObando/prueba_tecnica">Visíta Este Repositorio de GitHub Aquí</a>
             </section>
             </body>
             </html>
